@@ -1,0 +1,6 @@
+discord
+time
+asyncio
+os
+configparser
+py-cord
